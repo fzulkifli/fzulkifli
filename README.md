@@ -1,5 +1,16 @@
 ### Hi there 👋
+## About me
 
+I am a student at the _LSE_ studying Economics.
+
+I will use this GitHub profile to showcase my data science skills.
+
+### Interests
+
+- Python 
+- Data Science
+- Watching Football
+- Running
 <!--
 **fzulkifli/fzulkifli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
